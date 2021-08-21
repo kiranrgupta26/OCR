@@ -15,7 +15,7 @@ In this characters are extracted from the images and recognize through machine l
 </p>
 
 # Language Used
-Python, Tensorflow
+Python, Tensorflow, OpenCV
 
 # Coming Updates
 - To Improve word predictions.
