@@ -7,7 +7,7 @@ In this characters are extracted from the images and recognize through machine l
 
 # Visual Result
 <p align="center">
-<img src="test_image.png" width=500 />
+<img src="images/test_image.png" width=500 />
 </p>
 
 # Language Used
