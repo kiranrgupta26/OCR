@@ -19,7 +19,7 @@ In this characters are extracted from the images and recognize through machine l
 </p>
 
 <p align="center">
-<img src="images/output.PNG" width=500 />
+<img src="images/output.PNG" />
 </p>
 
 # Language Used
