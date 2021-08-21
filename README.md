@@ -18,6 +18,10 @@ In this characters are extracted from the images and recognize through machine l
 <img src="images/bounding_box_image.png" width=500 />
 </p>
 
+<p align="center">
+<img src="images/output.PNG" width=500 />
+</p>
+
 # Language Used
 Python, Tensorflow, OpenCV
 
