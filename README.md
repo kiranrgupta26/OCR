@@ -3,7 +3,11 @@ Optical character recognition or optical character reader is the electronic or m
 In this characters are extracted from the images and recognize through machine learning techniques and then written to the word file.IN this OCR, small and capital alphabet and 0-9 numbers are been recognized by the model. 
 
 # Action/Result
-- 
+- First the character coordinate are extarcted from the images and then sorted based on the locations.
+- Bounding box is calculated using the coordinate and cropped the image.
+- All the cropped images are passed through a convolutional neural network to recognize each character.
+- Predicted texts are then written to the word file.
+- Model accuracy about 91%
 
 # Visual Result
 <p align="center">
@@ -13,3 +17,5 @@ In this characters are extracted from the images and recognize through machine l
 # Language Used
 Python, Tensorflow
 
+# Coming Updates
+- To Improve word predictions.
