@@ -26,4 +26,4 @@ In this characters are extracted from the images and recognize through machine l
 Python, Tensorflow, OpenCV
 
 # Coming Updates
-- To Improve word predictions.
+- Converting word file to user handritten style.
